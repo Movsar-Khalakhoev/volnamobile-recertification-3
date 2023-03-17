@@ -13,5 +13,5 @@ export default defineConfig({
       utils: path.resolve(__dirname, "./src/utils"),
     },
   },
-  base: "/volnamobile-recertification-2",
+  base: "/volnamobile-recertification-3",
 });
